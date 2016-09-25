@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rahimrahman/docker-mysqlbinlog-backup.png?label=ready&title=Ready)](https://waffle.io/rahimrahman/docker-mysqlbinlog-backup)
 # docker-mysqlbinlog-backup
 
 Backup MySQL database using daily dump and incremental backup using `mysqlbinlog`.
