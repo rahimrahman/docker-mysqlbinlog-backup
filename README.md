@@ -35,6 +35,8 @@ MYSQL_USER=root
 MYSQL_PASSWORD=<mysql-password>
 MYSQL_HOST=<mysql-host>
 MYSQL_PORT=3306
+
+CPU_LIMIT=50
 ```
 
 Valid Amazon Web Service credentials and S3 bucket are required to upload compressed files to Amazon S3.
